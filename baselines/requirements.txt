@@ -1,0 +1,6 @@
+# Model-free baselines (separate from the DALI/JAX environment)
+torch
+gymnasium==0.29.1
+carl-bench
+matplotlib
+numpy<2.1
